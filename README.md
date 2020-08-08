@@ -42,29 +42,31 @@
 
 ### Programming
 
-- C
-- C++
-- C#
-- Python
-- Golang
-- PHP
-- Bash
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />
 
 ### Other languages
 
-- LaTeX
-- HTML
-- CSS
-- SQL
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 
 ### Operating Systems
 
-- Microsoft Windows (XP-10)
-- Ubuntu
-- Debian
-- Fedora
-- Arch
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/debian.svg" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fedora.svg" />
+<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" />
 
 ---
+
+Icons by [Simple Icons](https://simpleicons.org/) [CC0-1.0 License](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/LICENSE.md)
 
 I authorize the treatment of my personal data according to the Legislative Decree no. 196 of 30 June 2003
