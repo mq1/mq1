@@ -1,9 +1,3 @@
-📍 [Cotignola, RA 48033, Italy](https://www.openstreetmap.org/relation/43112)\
-✉ [manuelquarneti@gmail.com](mailto:manuelquarneti@gmail.com)\
-🌐 [quarno.xyz](https://quarno.xyz)\
-🔗 [linkedin/mquarneti](https://linkedin.com/in/mquarneti)\
-🔗 [github/quarno](https://github.com/quarno)
-
 ## Education
 
 - **Computer Science and Engineering Degree**\
