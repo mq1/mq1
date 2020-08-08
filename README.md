@@ -1,5 +1,3 @@
-# Manuel **Quarneti**
-
 📍 [Cotignola, RA 48033, Italy](https://www.openstreetmap.org/relation/43112)\
 ✉ [manuelquarneti@gmail.com](mailto:manuelquarneti@gmail.com)\
 🌐 [quarno.xyz](https://quarno.xyz)\
