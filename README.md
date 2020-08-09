@@ -44,11 +44,7 @@
 
 ### Programming
 
-<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" />
-
-### Other languages
-
-<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/latex.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 
 ### Operating Systems
 
