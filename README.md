@@ -2,10 +2,10 @@
 
 ## Education
 
-- **Computer Science and Engineering Degree**\
+- 📖 **Computer Science and Engineering Degree**\
 📆 2019 - Ongoing\
 📍 **University of Bologna** Cesena (RA)
-- **High School Diploma in Computer Science**\
+- 📕 **High School Diploma in Computer Science**\
 📆 2014 - 2019\
 📍 **I.T.I.P. Luigi Bucci** Faenza (RA)
 
@@ -13,25 +13,27 @@
 
 <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
 
-- **👨‍💻 Software Developer** PCTO (work/school)\
+- 👨‍💻 **Software Developer** PCTO (work/school)\
 📆 09/2018 - 09/2018\
 📍 **M.M.B. s.r.l.** Faenza (RA)
 <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 
-- **👨‍💻 Software Developer** Internship\
+- 👨‍💻 **Software Developer** Internship\
 📆 07/2018 - 07/2018\
 📍 **Bucchi s.r.l.** Lugo (RA)
-<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
 
-- **👨‍💻 Software Developer** PCTO (work/school)\
+- 👨‍💻 **Software Developer** PCTO (work/school)\
 📆 05/2018 - 06/2018\
 📍 **M.M.B. s.r.l.** Faenza (RA)
 
-- **💻 Computer Technician** Internship\
+- 💻 **Computer Technician** Internship\
 📆 07/2017 - 07/2017\
 📍 **T4 LAB** Faenza (RA)
 
-- **💻 Computer Technician** PCTO (work/school)\
+- 💻 **Computer Technician** PCTO (work/school)\
 📆 01/2017 - 01/2017\
 📍 **T4 LAB** Faenza (RA)
 
