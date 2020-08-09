@@ -40,7 +40,12 @@
 
 ## Languages
 
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/flags/4x3/it.svg" />
+
 - **Italian** _mother tongue_
+
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/flags/4x3/gb-eng.svg" />
+
 - **English** _B2_
 
 ## Skills
@@ -55,6 +60,6 @@
 
 ---
 
-Icons by [Simple Icons](https://simpleicons.org/) [CC0-1.0 License](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/LICENSE.md)
+Icons by [Simple Icons](https://simpleicons.org/) ([CC0-1.0 License](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/LICENSE.md)) and [Flag Icons](https://flagicons.lipis.dev/) ([MIT License](https://raw.githubusercontent.com/lipis/flag-icon-css/master/LICENSE))
 
 I authorize the treatment of my personal data according to the Legislative Decree no. 196 of 30 June 2003
