@@ -1,4 +1,4 @@
-<img align="right" src="https://zxing.org/w/chart?cht=qr&chs=230x230&chld=L&choe=UTF-8&chl=MECARD%3AN%3AManuel+Quarneti%3BURL%3Ahttps%5C%3A%2F%2Fquarno.xyz%3BEMAIL%3Amanuelquarneti%40mail.com%3B%3B" />
+<img align="right" src="https://zxing.org/w/chart?cht=qr&chs=230x230&chld=L&choe=UTF-8&chl=MECARD%3AN%3AManuel+Quarneti%3BURL%3Ahttps%5C%3A%2F%2Fquarno.xyz%3BEMAIL%3Amanuelquarneti%40gmail.com%3B%3B" />
 
 ## Education
 
