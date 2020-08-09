@@ -4,49 +4,49 @@
 
 - 📖 **Computer Science and Engineering Degree**\
 📆 2019 - Ongoing\
-📍 University of Bologna - Cesena (RA)
+📍 **University of Bologna** Cesena (RA)
 
 - 📕 **High School Diploma in Computer Science**\
 📆 2014 - 2019\
-📍 I.T.I.P. Luigi Bucci - Faenza (RA)
+📍 **I.T.I.P. Luigi Bucci** Faenza (RA)
 
 ## Experience
 
 <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
 
-- 👨‍💻 **Software Developer** _PCTO (work/school)_\
+- 👨‍💻 **Software Developer** PCTO (work/school)\
 📆 09/2018 - 09/2018\
-📍 **M.M.B. s.r.l.** _Faenza (RA)_
+📍 **M.M.B. s.r.l.** Faenza (RA)
 
 <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 
-- 👨‍💻 **Software Developer** _Internship_\
+- 👨‍💻 **Software Developer** Internship\
 📆 07/2018 - 07/2018\
-📍 **Bucchi s.r.l.** _Lugo (RA)_
+📍 **Bucchi s.r.l.** Lugo (RA)
 
 <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 
-- 👨‍💻 **Software Developer** _PCTO (work/school)_\
+- 👨‍💻 **Software Developer** PCTO (work/school)\
 📆 05/2018 - 06/2018\
-📍 **M.M.B. s.r.l.** _Faenza (RA)_
+📍 **M.M.B. s.r.l.** Faenza (RA)
 
-- 💻 **Computer Technician** _Internship_\
+- 💻 **Computer Technician** Internship\
 📆 07/2017 - 07/2017\
-📍 **T4 LAB** _Faenza (RA)_
+📍 **T4 LAB** Faenza (RA)
 
-- 💻 **Computer Technician** _PCTO (work/school)_\
+- 💻 **Computer Technician** PCTO (work/school)\
 📆 01/2017 - 01/2017\
-📍 **T4 LAB** _Faenza (RA)_
+📍 **T4 LAB** Faenza (RA)
 
 ## Languages
 
 <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/flags/4x3/it.svg" />
 
-- **Italian** _mother tongue_
+- **Italian** mother tongue
 
 <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/flags/4x3/gb-eng.svg" />
 
-- **English** _B2_
+- **English** B2
 
 ## Skills
 
