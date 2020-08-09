@@ -26,14 +26,10 @@
 - **👨‍💻 Software Developer** PCTO (work/school)\
 📆 05/2018 - 06/2018\
 📍 **M.M.B. s.r.l.** Faenza (RA)
-<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/PCs
-repair.svg" />
 
 - **💻 Computer Technician** Internship\
 📆 07/2017 - 07/2017\
 📍 **T4 LAB** Faenza (RA)
-<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/PCs
-repair.svg" />
 
 - **💻 Computer Technician** PCTO (work/school)\
 📆 01/2017 - 01/2017\
@@ -53,6 +49,7 @@ repair.svg" />
 <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 
 **Programming**
+
 <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/debian.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fedora.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" />
 
 **Operating Systems**
