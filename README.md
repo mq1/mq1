@@ -17,13 +17,13 @@
 📆 09/2018 - 09/2018\
 📍 **M.M.B. s.r.l.** _Faenza (RA)_
 
-<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 
 - **Software Developer** _Internship_\
 📆 07/2018 - 07/2018\
 📍 **Bucchi s.r.l.** _Lugo (RA)_
 
-<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /> <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /> <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 
 - **Software Developer** _PCTO (work/school)_\
 📆 05/2018 - 06/2018\
@@ -43,13 +43,13 @@
 
 ## Skills
 
-### Programming
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 
-<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+**Programming**
 
-### Operating Systems
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fedora.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/debian.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" />
 
-<img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/debian.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fedora.svg" /> <img width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" />
+**Operating Systems**
 
 ---
 
