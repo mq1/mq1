@@ -16,7 +16,8 @@
 - 👨‍💻 **Software Developer** PCTO (work/school)\
 📆 09/2018 - 09/2018\
 📍 **M.M.B. s.r.l.** Faenza (RA)
-<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 
 - 👨‍💻 **Software Developer** Internship\
 📆 07/2018 - 07/2018\
@@ -37,15 +38,6 @@
 📆 01/2017 - 01/2017\
 📍 **T4 LAB** Faenza (RA)
 
-## Languages
-
-<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/flags/4x3/it.svg" />
-
-- **Italian** Mother tongue
-<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/flags/4x3/gb-eng.svg" />
-
-- **English** B2
-
 ## Skills
 
 <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gnubash.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
@@ -55,6 +47,16 @@
 <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/windows.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ubuntu.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/debian.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fedora.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/archlinux.svg" />
 
 **Operating Systems**
+
+## Languages
+
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/flags/4x3/it.svg" />
+
+- **Italian** Mother tongue
+
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/flag-icon-css@3.5.0/flags/4x3/gb-eng.svg" />
+
+- **English** B2
 
 ---
 
