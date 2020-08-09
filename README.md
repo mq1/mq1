@@ -1,4 +1,4 @@
-<img align="right" src="https://zxing.org/w/chart?cht=qr&chs=350x350&chld=L&choe=UTF-8&chl=MECARD%3AN%3AManuel+Quarneti%3BURL%3Ahttps%5C%3A%2F%2Fquarno.xyz%3BEMAIL%3Amanuelquarneti%40gmail.com%3BADR%3ACotignola+RA%2C+Italy%3B%3B" />
+<img align="right" src="https://zxing.org/w/chart?cht=qr&chs=230x230&chld=L&choe=UTF-8&chl=MECARD%3AN%3AManuel+Quarneti%3BURL%3Ahttps%5C%3A%2F%2Fquarno.xyz%3BEMAIL%3Amanuelquarneti%40gmail.com%3B%3B" />
 
 ## Education
 
@@ -11,29 +11,30 @@
 
 ## Experience
 
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
+
 - **Software Developer** _PCTO (work/school)_\
 📆 09/2018 - 09/2018\
 📍 **M.M.B. s.r.l.** _Faenza (RA)_
-  - C# desktop applications development
+
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+
 - **Software Developer** _Internship_\
 📆 07/2018 - 07/2018\
 📍 **Bucchi s.r.l.** _Lugo (RA)_
-  - SCADA software development
-  - Web applications development
+
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /> <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" /> <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /> <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /> <img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+
 - **Software Developer** _PCTO (work/school)_\
 📆 05/2018 - 06/2018\
 📍 **M.M.B. s.r.l.** _Faenza (RA)_
-  - Front-end development
-  - WordPress site management
-  - C# desktop applications development
+
 - **Computer Technician** _Internship_\
 📆 07/2017 - 07/2017\
 📍 **T4 LAB** _Faenza (RA)_
-  - PCs repair
 - **Computer Technician** _PCTO (work/school)_\
 📆 01/2017 - 01/2017\
 📍 **T4 LAB** _Faenza (RA)_
-  - PCs repair
 
 ## Languages
 
