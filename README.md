@@ -16,23 +16,26 @@
 - 👨‍💻 **Software Developer** PCTO (work/school)\
 📆 09/2018 - 09/2018\
 📍 **M.M.B. s.r.l.** Faenza (RA)
-<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 
 - 👨‍💻 **Software Developer** Internship\
 📆 07/2018 - 07/2018\
 📍 **Bucchi s.r.l.** Lugo (RA)
-<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" />
-<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
+
+<img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wordpress.svg" /><img align="right" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />
 
 - 👨‍💻 **Software Developer** PCTO (work/school)\
 📆 05/2018 - 06/2018\
 📍 **M.M.B. s.r.l.** Faenza (RA)
 
+
+
 - 💻 **Computer Technician** Internship\
 📆 07/2017 - 07/2017\
 📍 **T4 LAB** Faenza (RA)
+
+
 
 - 💻 **Computer Technician** PCTO (work/school)\
 📆 01/2017 - 01/2017\
