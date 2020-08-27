@@ -12,7 +12,7 @@
 
 ## Experience
 
-<img align="right" height="26px" src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c sharp&logoColor=white" />
+<img align="right" height="26px" src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 - 👨‍💻 **Software Developer** PCTO (work/school)\
 📆 09/2018 - 09/2018\
@@ -25,7 +25,7 @@
 📆 07/2018 - 07/2018\
 📍 **Bucchi s.r.l.** Lugo (RA)
 
-<img align="right" height="26px" src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c sharp&logoColor=white" />
+<img align="right" height="26px" src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="right" height="26px" src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img align="right" height="26px" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 <img align="right" height="26px" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -50,17 +50,17 @@
 <img align="right" height="26px" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="right" height="26px" src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img align="right" height="26px" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="right" height="26px" src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c sharp&logoColor=white" />
+<img align="right" height="26px" src="https://img.shields.io/badge/c sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="right" height="26px" src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="right" height="26px" src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
 
 **Programming**
 
-<img align="right" height="26px" src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img align="right" height="26px" src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img align="right" height="26px" src="https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img align="right" height="26px" src="https://img.shields.io/badge/arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 <img align="right" height="26px" src="https://img.shields.io/badge/fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-<img align="right" height="26px" src="https://img.shields.io/badge/arch-1793D1?style=for-the-badge&logo=arch linux&logoColor=white" />
+<img align="right" height="26px" src="https://img.shields.io/badge/debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img align="right" height="26px" src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img align="right" height="26px" src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 **Operating Systems**
 
