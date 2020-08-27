@@ -46,7 +46,7 @@
 ## Skills
 
 <img align="right" height="26px" src="https://img.shields.io/badge/(my)sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="right" height="26px" src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu bash&logoColor=white" />
+<img align="right" height="26px" src="https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img align="right" height="26px" src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img align="right" height="26px" src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img align="right" height="26px" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
