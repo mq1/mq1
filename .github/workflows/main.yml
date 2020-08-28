@@ -19,6 +19,7 @@ jobs:
     - uses: xu-cheng/latex-action@v2
       with:
         root_file: quarno.tex
+        compiler: xelatex
 
     - run: mv *.pdf public
 
