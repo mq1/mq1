@@ -10,7 +10,7 @@ jobs:
 
     - uses: docker://pandoc/core
       with:
-        args: en.yml --template template.html -o public/index.html
+        args: README.md --template template.html -o public/index.html
     
     - uses: docker://pandoc/core
       with:
