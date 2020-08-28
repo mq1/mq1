@@ -20,11 +20,28 @@
 	    	}
 	    }
     </style>
+	<script>
+		// https://stackoverflow.com/a/16895271
+		function printDiv(divName) {
+	    	var printContents = document.getElementById(divName).innerHTML;
+	    	var originalContents = document.body.innerHTML;
+
+	    	document.body.innerHTML = printContents;
+
+	    	window.print();
+
+	    	document.body.innerHTML = originalContents;
+		}
+	</script>
 </head>
 <body>
     <article class="markdown-body">
-		$body$
-		<img onclick="window.print()" align="right" src="https://img.shields.io/badge/pdf-download-EC1C24?logo=adobe-acrobat-reader&logoColor=white" />
+		<div id="printableArea">
+			$body$
+		</div>
+		<button onclick="printDiv('printableArea')">
+			<img onclick="window.print()" align="right" src="https://img.shields.io/badge/pdf-download-EC1C24?logo=adobe-acrobat-reader&logoColor=white" />
+		</button>
 	</article> 
 </body>
 </html>
