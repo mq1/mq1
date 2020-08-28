@@ -16,11 +16,11 @@ jobs:
       with:
         args: public/index.html -o quarno.tex
 
-    - uses: xu-cheng/texlive-action/full@v1
+    - uses: xu-cheng/latex-action@v2
       with:
-        run: |
-          pdflatex quarno.tex
-          for pdf in *.pdf; do gs -sDEVICE=pdfwrite -dPDFSETTINGS=/printer -q -o "public/$pdf" "$pdf"; done
+        root_file: quarno.tex
+
+    - run: mv *.pdf public
 
     - uses: peaceiris/actions-gh-pages@v3
       with:
