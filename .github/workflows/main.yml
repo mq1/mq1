@@ -14,7 +14,7 @@ jobs:
  
     - run: |
         sudo apt install -y xvfb libfontconfig wkhtmltopdf
-        xvfb-run -a -s "-screen 0 640x480x16" wkhtmltopdf --encoding "utf-8" public/index.html public/quarno.pdf
+        xvfb-run -a -s "-screen 0 640x480x16" wkhtmltopdf public/index.html public/quarno.pdf
 
     - uses: peaceiris/actions-gh-pages@v3
       with:
