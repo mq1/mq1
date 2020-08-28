@@ -1,3 +1,13 @@
+<center>
+    <h1>Manuel Quarneti</h1>
+    <a href="mailto:manuelquarneti@gmail.com">
+        <img src="https://img.shields.io/badge/email-manuelquarneti@gmail.com-D14836?logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/mquarneti/">
+        <img src="https://img.shields.io/badge/linkedin-mquarneti-0077B5?logo=linkedin&logoColor=white" />
+    </a>
+</center>
+
 <img align="right" src="https://zxing.org/w/chart?cht=qr&chs=230x230&chld=L&choe=UTF-8&chl=MECARD%3AN%3AManuel+Quarneti%3BURL%3Ahttps%5C%3A%2F%2Fquarno.xyz%3BEMAIL%3Amanuelquarneti%40gmail.com%3B%3B" />
 
 ## Education
