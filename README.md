@@ -82,9 +82,7 @@
 
 ---
 
-Icons by [shields.io](https://simpleicons.org/) ([CC0-1.0 License](https://raw.githubusercontent.com/badges/shields/master/LICENSE)) and [Flag Icons](https://flagicons.lipis.dev/) ([MIT License](https://raw.githubusercontent.com/lipis/flag-icon-css/master/LICENSE))
-
-QR generated with [zxing](https://github.com/zxing/zxing) ([Apache-2.0 License](https://raw.githubusercontent.com/zxing/zxing/master/LICENSE))
+Icons by [shields.io](https://simpleicons.org/) ([CC0-1.0 License](https://raw.githubusercontent.com/badges/shields/master/LICENSE)), [Flag Icons](https://flagicons.lipis.dev/) ([MIT License](https://raw.githubusercontent.com/lipis/flag-icon-css/master/LICENSE)), [zxing](https://github.com/zxing/zxing) ([Apache-2.0 License](https://raw.githubusercontent.com/zxing/zxing/master/LICENSE)), [Twemoji](https://github.com/twitter/twemoji) ([LICENSE](https://raw.githubusercontent.com/twitter/twemoji/master/LICENSE))
 
 I authorize the treatment of my personal data according to the Legislative Decree no. 196 of 30 June 2003
 
