@@ -13,7 +13,7 @@ jobs:
         args: README.md --template template.html -o public/index.html
     
     - run: |
-        apt install -y wkhtmltopdf
+        sudo apt install -y wkhtmltopdf
         wkhtmltopdf public/index.html public/quarno.pdf
 
     - uses: peaceiris/actions-gh-pages@v3
