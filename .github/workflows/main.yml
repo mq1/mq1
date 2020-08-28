@@ -12,17 +12,9 @@ jobs:
       with:
         args: README.md --template template.html -o public/index.html
     
-    - uses: docker://pandoc/core
-      with:
-        args: public/index.html -o quarno.tex
-
-    - uses: xu-cheng/latex-action@v2
-      with:
-        root_file: |
-          quarno.tex
-        latexmk_use_xelatex: true
-
-    - run: mv *.pdf public
+    - run: |
+        apt install -y wkhtmltopdf
+        wkhtmltopdf public/index.html public/quarno.pdf
 
     - uses: peaceiris/actions-gh-pages@v3
       with:
