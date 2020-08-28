@@ -87,3 +87,7 @@ Icons by [shields.io](https://simpleicons.org/) ([CC0-1.0 License](https://raw.g
 QR generated with [zxing](https://github.com/zxing/zxing) ([Apache-2.0 License](https://raw.githubusercontent.com/zxing/zxing/master/LICENSE))
 
 I authorize the treatment of my personal data according to the Legislative Decree no. 196 of 30 June 2003
+
+<a href="https://quarno.xyz/quarno.pdf">
+    <img align="right" src="https://img.shields.io/badge/pdf-download-EC1C24?logo=adobe-acrobat-reader&logoColor=white" />
+</a>
