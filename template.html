@@ -19,27 +19,18 @@
 	    		padding: 15px;
 	    	}
 	    }
-    </style>
-	<script>
-		// https://stackoverflow.com/a/16895271
-		function printDiv(divName) {
-	    	var printContents = document.getElementById(divName).innerHTML;
-	    	var originalContents = document.body.innerHTML;
 
-	    	document.body.innerHTML = printContents;
-
-	    	window.print();
-
-	    	document.body.innerHTML = originalContents;
+		@media print {
+			.do-not-print {
+				display: none;
+			}
 		}
-	</script>
+    </style>
 </head>
 <body>
     <article class="markdown-body">
-		<div id="printableArea">
-			$body$
-		</div>
-		<img onclick="printDiv('printableArea')" align="right" src="https://img.shields.io/badge/pdf-download-EC1C24?logo=adobe-acrobat-reader&logoColor=white" />
+		$body$
+		<img class="do-not-print" onclick="window.print()" align="right" src="https://img.shields.io/badge/pdf-download-EC1C24?logo=adobe-acrobat-reader&logoColor=white" />
 	</article> 
 </body>
 </html>
