@@ -12,10 +12,6 @@ jobs:
       with:
         args: README.md --template template.html -o public/index.html
     
-    - run: |
-        sudo apt install -y xvfb libfontconfig wkhtmltopdf
-        wkhtmltopdf public/index.html public/quarno.pdf
-
     - uses: peaceiris/actions-gh-pages@v3
       with:
         personal_token: ${{ secrets.PERSONAL_TOKEN }}
