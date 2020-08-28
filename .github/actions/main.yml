@@ -1,0 +1,31 @@
+on: [push]
+
+jobs:
+  update_github_pages:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - run: mkdir public
+
+    - uses: docker://pandoc/core
+      with:
+        args: en.yml --template template.html -o public/index.html
+    
+    - uses: docker://pandoc/core
+      with:
+        args: public/index.html -o quarno.tex
+
+    - uses: xu-cheng/texlive-action/full@v1
+      with:
+        run: |
+          pdflatex quarno.tex
+          for pdf in *.pdf; do gs -sDEVICE=pdfwrite -dPDFSETTINGS=/printer -q -o "public/$pdf" "$pdf"; done
+
+    - uses: peaceiris/actions-gh-pages@v3
+      with:
+        personal_token: ${{ secrets.PERSONAL_TOKEN }}
+        external_repository: quarno/quarno.github.io
+        publish_branch: master
+        publish_dir: ./public
+        cname: quarno.xyz
