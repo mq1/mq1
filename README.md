@@ -7,6 +7,12 @@
     <a href="https://www.linkedin.com/in/mquarneti/">
         <img src="https://img.shields.io/badge/linkedin-mquarneti-0077B5?logo=linkedin&logoColor=white" />
     </a>
+    <a href="https://github.com/quarno">
+        <img src="https://img.shields.io/badge/github-quarno-181717?logo=github&logoColor=white" />
+    </a>
+    <a href="https://quarno.xyz">
+        <img src="https://img.shields.io/badge/website-quarno.xyz-E34F26?logo=html5&logoColor=white" />
+    </a>
 </p>
 
 <img align="right" src="https://zxing.org/w/chart?cht=qr&chs=230x230&chld=L&choe=UTF-8&chl=MECARD%3AN%3AManuel+Quarneti%3BURL%3Ahttps%5C%3A%2F%2Fquarno.xyz%3BEMAIL%3Amanuelquarneti%40gmail.com%3B%3B" />
