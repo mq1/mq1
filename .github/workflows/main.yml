@@ -7,8 +7,8 @@ jobs:
     - uses: actions/checkout@v2
  
     - run: |
-        sudo apt install -y make pandoc weasyprint
-        make all
+        sudo apt install -y make pandoc xvfb libfontconfig wkhtmltopdf
+        xvfb-run -a -s "-screen 0 640x480x16" make all
 
     - uses: peaceiris/actions-gh-pages@v3
       with:
