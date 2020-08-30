@@ -5,16 +5,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-
-    - run: mkdir public
-
-    - uses: docker://pandoc/core
-      with:
-        args: README.md --template template.html -o public/index.html
  
     - run: |
-        sudo apt install -y xvfb libfontconfig wkhtmltopdf
-        xvfb-run -a -s "-screen 0 640x480x16" wkhtmltopdf public/index.html public/quarno.pdf
+        sudo apt install -y make pandoc weasyprint
+        make all
 
     - uses: peaceiris/actions-gh-pages@v3
       with:
