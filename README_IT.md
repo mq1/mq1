@@ -90,6 +90,6 @@ Icons by [shields.io](https://simpleicons.org/) ([CC0-1.0 License](https://raw.g
 
 Autorizzo il trattamento dei miei dati personali, ai sensi del D.lgs. 196 del 30giugno 2003
 
-<a class="do-not-print" href="https://quarno.xyz/quarno.pdf">
+<a class="do-not-print" href="https://quarno.xyz/quarno_it.pdf">
 	<img align="right" src="https://img.shields.io/badge/PDF-download-EC1C24?logo=adobe-acrobat-reader&logoColor=white" />
 </a>
