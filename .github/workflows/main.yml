@@ -8,8 +8,7 @@ jobs:
  
     - run: |
         wget https://github.com/jgm/pandoc/releases/download/2.10.1/pandoc-2.10.1-1-amd64.deb
-        sudo apt install -y ./pandoc-2.10.1-1-amd64.deb
-        sudo apt install -y make xvfb libfontconfig wkhtmltopdf
+        sudo apt install -y ./pandoc-2.10.1-1-amd64.deb make xvfb libfontconfig wkhtmltopdf
         xvfb-run -a -s "-screen 0 640x480x16" make all
 
     - uses: peaceiris/actions-gh-pages@v3
