@@ -2,8 +2,8 @@
     <a href="mailto:manuelquarneti@gmail.com">
         <img src="https://img.shields.io/badge/email-manuelquarneti@gmail.com-D14836?logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/mquarneti/">
-        <img src="https://img.shields.io/badge/LinkedIn-mquarneti-0077B5?logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/quarno/">
+        <img src="https://img.shields.io/badge/LinkedIn-quarno-0077B5?logo=linkedin&logoColor=white" />
     </a>
     <a href="https://github.com/quarno">
         <img src="https://img.shields.io/badge/GitHub-quarno-181717?logo=github&logoColor=white" />
