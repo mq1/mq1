@@ -86,7 +86,7 @@
 
 ---
 
-Icons by [shields.io](https://simpleicons.org/) ([CC0-1.0 License](https://raw.githubusercontent.com/badges/shields/master/LICENSE)), [Flag Icons](https://flagicons.lipis.dev/) ([MIT License](https://raw.githubusercontent.com/lipis/flag-icon-css/master/LICENSE)), [zxing](https://github.com/zxing/zxing) ([Apache-2.0 License](https://raw.githubusercontent.com/zxing/zxing/master/LICENSE)), [Twemoji](https://github.com/twitter/twemoji) ([LICENSE](https://raw.githubusercontent.com/twitter/twemoji/master/LICENSE))
+Icons by [shields.io](https://simpleicons.org/) ([CC0-1.0 License](https://raw.githubusercontent.com/badges/shields/master/LICENSE)), [Flag Icons](https://flagicons.lipis.dev/) ([MIT License](https://raw.githubusercontent.com/lipis/flag-icon-css/master/LICENSE)), [zxing](https://github.com/zxing/zxing) ([Apache-2.0 License](https://raw.githubusercontent.com/zxing/zxing/master/LICENSE))
 
 Autorizzo il trattamento dei miei dati personali, ai sensi del D.lgs. 196 del 30giugno 2003
 
