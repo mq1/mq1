@@ -89,7 +89,3 @@
 Icons by [shields.io](https://simpleicons.org/) ([CC0-1.0 License](https://raw.githubusercontent.com/badges/shields/master/LICENSE)), [Flag Icons](https://flagicons.lipis.dev/) ([MIT License](https://raw.githubusercontent.com/lipis/flag-icon-css/master/LICENSE)), [zxing](https://github.com/zxing/zxing) ([Apache-2.0 License](https://raw.githubusercontent.com/zxing/zxing/master/LICENSE))
 
 Autorizzo il trattamento dei miei dati personali, ai sensi del D.lgs. 196 del 30giugno 2003
-
-<a class="do-not-print" href="https://quarno.xyz/quarno_it.pdf">
-	<img align="right" src="https://img.shields.io/badge/PDF-download-EC1C24?logo=adobe-acrobat-reader&logoColor=white" />
-</a>
