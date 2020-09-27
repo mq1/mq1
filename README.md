@@ -3,6 +3,7 @@
 - 📖 **Computer Science and Engineering Degree**\
 📆 2019 - Ongoing\
 📍 **University of Bologna** Cesena (RA)
+
 - 📕 **High School Diploma in Information Technology**\
 📆 2014 - 2019\
 📍 **I.T.I.P. Luigi Bucci** Faenza (RA)
