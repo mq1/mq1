@@ -9,6 +9,7 @@
 📍 **I.T.I.P. Luigi Bucci** Faenza (RA)
 
 ## Experience
+
 - **Software Developer** PCTO (work/school)\
 📆 09/2018 - 09/2018\
 📍 **M.M.B. s.r.l.** Faenza (RA)
