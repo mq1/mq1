@@ -60,6 +60,6 @@
 
 ---
 
-Icons by [shields.io](https://simpleicons.org/) ([CC0-1.0 License](https://raw.githubusercontent.com/badges/shields/master/LICENSE)), [Flag Icons](https://flagicons.lipis.dev/) ([MIT License](https://raw.githubusercontent.com/lipis/flag-icon-css/master/LICENSE))
+Icons by [shields.io](https://shields.io/) ([CC0-1.0 License](https://raw.githubusercontent.com/badges/shields/master/LICENSE)), [Flag Icons](https://flagicons.lipis.dev/) ([MIT License](https://raw.githubusercontent.com/lipis/flag-icon-css/master/LICENSE))
 
 I authorize the treatment of my personal data according to the Legislative Decree no. 196 of 30 June 2003
