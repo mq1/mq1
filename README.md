@@ -41,7 +41,7 @@
 ![Bash](https://img.shields.io/badge/⚪⚪⚪⚫⚫-Bash%20and%20UNIX%20utils-4EAA25?logo=gnu-bash&logoColor=white)\
 ![C#](https://img.shields.io/badge/⚪⚪⚫⚫⚫-C%23-239120?logo=c-sharp&logoColor=white)\
 ![(My)SQL](https://img.shields.io/badge/⚪⚪⚫⚫⚫-(My)SQL-4479A1?logo=mysql&logoColor=white)\
-![x86 Assembly](https://img.shields.io/badge/⚪⚪⚫⚫⚫-x86%20Assembly-0071C5?logo=intel&logoColor=white)\
+![x86 Assembly](https://img.shields.io/badge/⚪⚪⚫⚫⚫-x86%20Assembly-0071C5?logo=intel&logoColor=white)
 
 ### Operating Systems
 ![Fedora/RHEL/CentOS](https://img.shields.io/badge/⚪⚪⚪⚪⚫-Fedora/RHEL/CentOS-EE0000?logo=red-hat&logoColor=white)\
