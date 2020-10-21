@@ -38,17 +38,13 @@
 ![Python](https://img.shields.io/badge/⚪⚪⚪⚪⚫-Python-3776AB?logo=python&logoColor=white)\
 ![Go](https://img.shields.io/badge/⚪⚪⚪⚪⚫-Go-00ADD8?logo=go&logoColor=white)\
 ![C](https://img.shields.io/badge/⚪⚪⚪⚫⚫-C-A8B9CC?logo=c&logoColor=white)\
-![C++](https://img.shields.io/badge/⚪⚪⚪⚫⚫-C++-00599C?logo=c%2B%2B&logoColor=white)\
 ![Bash](https://img.shields.io/badge/⚪⚪⚪⚫⚫-Bash%20and%20UNIX%20utils-4EAA25?logo=gnu-bash&logoColor=white)\
 ![C#](https://img.shields.io/badge/⚪⚪⚫⚫⚫-C%23-239120?logo=c-sharp&logoColor=white)\
-![PHP](https://img.shields.io/badge/⚪⚪⚫⚫⚫-PHP-777BB4?logo=php&logoColor=white)\
 ![(My)SQL](https://img.shields.io/badge/⚪⚪⚫⚫⚫-(My)SQL-4479A1?logo=mysql&logoColor=white)\
 ![x86 Assembly](https://img.shields.io/badge/⚪⚪⚫⚫⚫-x86%20Assembly-0071C5?logo=intel&logoColor=white)\
-![Java](https://img.shields.io/badge/⚪⚫⚫⚫⚫-Java-007396?logo=java&logoColor=white)
 
 ### Operating Systems
 ![Fedora/RHEL/CentOS](https://img.shields.io/badge/⚪⚪⚪⚪⚫-Fedora/RHEL/CentOS-EE0000?logo=red-hat&logoColor=white)\
-![Arch](https://img.shields.io/badge/⚪⚪⚪⚪⚫-Arch-1793D1?logo=arch-linux&logoColor=white)\
 ![Ubuntu](https://img.shields.io/badge/⚪⚪⚪⚫⚫-Ubuntu-E95420?logo=ubuntu&logoColor=white)\
 ![Debian](https://img.shields.io/badge/⚪⚪⚪⚫⚫-Debian-A81D33?logo=debian&logoColor=white)\
 ![Windows](https://img.shields.io/badge/⚪⚪⚪⚫⚫-Windows-0078D6?logo=windows&logoColor=white)\
