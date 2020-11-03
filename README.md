@@ -60,11 +60,11 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ### 🏳️ Languages
-![Italian](https://img.shields.io/badge/Italian%20(Mother%20tongue)-success?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWl0IiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+DQogIDxnIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLXdpZHRoPSIxcHQiPg0KICAgIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPg0KICAgIDxwYXRoIGZpbGw9IiMwMDkyNDYiIGQ9Ik0wIDBoMjEzLjN2NDgwSDB6Ii8+DQogICAgPHBhdGggZmlsbD0iI2NlMmIzNyIgZD0iTTQyNi43IDBINjQwdjQ4MEg0MjYuN3oiLz4NCiAgPC9nPg0KPC9zdmc+)
-![English](https://img.shields.io/badge/English%20(B2)-blue?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJmbGFnLWljb24tY3NzLWdiLWVuZyIgdmlld0JveD0iMCAwIDY0MCA0ODAiPgogIDxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0wIDBoNjQwdjQ4MEgweiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0yODEuNiAwaDc2Ljh2NDgwaC03Ni44eiIvPgogIDxwYXRoIGZpbGw9IiNjZTExMjQiIGQ9Ik0wIDIwMS42aDY0MHY3Ni44SDB6Ii8+Cjwvc3ZnPgo=)
+![Italian](https://img.shields.io/badge/🇮🇹%20Italian%20(Mother%20tongue)-success)
+![English](https://img.shields.io/badge/🇬🇧%20English%20(B2)-blue)
 
 ---
 
-Icons by [shields.io](https://shields.io/) ([CC0-1.0 License](https://raw.githubusercontent.com/badges/shields/master/LICENSE)), [Flag Icons](https://flagicons.lipis.dev/) ([MIT License](https://raw.githubusercontent.com/lipis/flag-icon-css/master/LICENSE))
+Icons by [shields.io](https://shields.io/) ([CC0-1.0 License](https://raw.githubusercontent.com/badges/shields/master/LICENSE))
 
 I authorize the treatment of my personal data according to the Legislative Decree no. 196 of 30 June 2003
