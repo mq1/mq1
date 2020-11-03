@@ -60,8 +60,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ### 🏳️ Languages
-![Italian](https://img.shields.io/badge/🇮🇹%20Italian%20(Mother%20tongue)-success)
-![English](https://img.shields.io/badge/🇬🇧%20English%20(B2)-blue)
+![Italian](https://img.shields.io/badge/🇮🇹%20Italian-Mother%20tongue-success)
+![English](https://img.shields.io/badge/🇬🇧%20English-B2-blue)
 
 ---
 
