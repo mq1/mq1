@@ -14,29 +14,29 @@
 
 ### 👨‍💻 Software Developer PCTO (work/school)
 📆 09/2018 - 09/2018\
-🏢 **M.M.B. s.r.l.** Faenza (RA)\
-🖥️ Windows desktop app development (C#)
+🏢 **M.M.B. s.r.l.** Faenza (RA)
+* 🖥️ Windows desktop app development (C#)
 
 ### 👨‍💻 Software Developer Internship
 📆 07/2018 - 07/2018\
-🏭 **Bucchi s.r.l.** Lugo (RA)\
-🗃️ Data management and visualization (PostgreSQL, Python)
+🏭 **Bucchi s.r.l.** Lugo (RA)
+* 🗃️ Data management and visualization (PostgreSQL, Python)
 
 ### 👨‍💻 Software Developer PCTO (work/school)
 📆 05/2018 - 06/2018\
-🏢 **M.M.B. s.r.l.** Faenza (RA)\
-🖥️ Windows desktop app development (C#)\
-🌐 Website development (HTML/CSS/JS, WordPress)
+🏢 **M.M.B. s.r.l.** Faenza (RA)
+* 🖥️ Windows desktop app development (C#)
+* 🌐 Website development (HTML/CSS/JS, WordPress)
 
 ### 🛠 Computer Technician Internship
 📆 07/2017 - 07/2017\
-🏢 **T4 LAB** Faenza (RA)\
-💻 PCs repair
+🏢 **T4 LAB** Faenza (RA)
+* 💻 PCs repair
 
 ### 🛠 Computer Technician PCTO (work/school)
 📆 01/2017 - 01/2017\
-🏢 **T4 LAB** Faenza (RA)\
-💻 PCs repair
+🏢 **T4 LAB** Faenza (RA)
+* 💻 PCs repair
 
 ---
 
