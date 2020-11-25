@@ -9,4 +9,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/quarno)
 [![eMail](https://img.shields.io/badge/eMail-D14836?logo=gmail&logoColor=white)](mailto:manuelquarneti@gmail.com)
 
-You can download my cv [![here](https://img.shields.io/badge/here-EC1C24?logo=adobe-acrobat-reader&logoColor=white)](https://quarno.xyz/cv.pdf)
+📄 You can download my cv [![here](https://img.shields.io/badge/here-EC1C24?logo=adobe-acrobat-reader&logoColor=white)](https://quarno.xyz/cv.pdf)
