@@ -10,14 +10,14 @@ header-includes: |
 ---
 
 \vspace{-2.25cm}
-![](me.jpg){width=1.5cm} \hfill{} ![](qr.png){width=1.5cm}
+![](me.jpg){height=1.5cm} \hfill{} ![](qr.png){height=1.5cm}
 \vspace{0.25cm}
 
 \centering{}
 [\emoji{envelope} manuelquarneti@gmail.com](mailto:manuelquarneti@gmail.com) |
 [\emoji{cityscape} 48033 Cotignola RA, Italy](https://www.openstreetmap.org/relation/43112) |
-[![](icons/github.svg){width=3mm} GitHub/quarno](https://github.com/quarno) |
-[![](icons/linkedin.svg){width=3mm} LinkedIn/quarno](https://www.linkedin.com/in/quarno/)
+[![](icons/github.svg){height=12px} GitHub/quarno](https://github.com/quarno) |
+[![](icons/linkedin.svg){height=12px} LinkedIn/quarno](https://www.linkedin.com/in/quarno/)
 \flushleft{}
 
 \dotfill
@@ -89,18 +89,18 @@ header-includes: |
 # \emoji{light-bulb} Skills
 
 **\emoji{man-technologist} Programming** \hfill{}
-![](icons/python.svg){width=3mm} Python |
-![](icons/go.svg){width=4mm} Go |
-![](icons/c.svg){width=3mm} C |
-![](icons/csharp.svg){width=3mm} C# |
-![](icons/mysql.svg){width=4mm} My(SQL) |
-![](icons/intel.svg){width=4mm} x86 Assembly
+![](icons/python.svg){height=12px} Python |
+![](icons/go.svg){height=12px} Go |
+![](icons/c.svg){height=12px} C |
+![](icons/csharp.svg){height=12px} C# |
+![](icons/mysql.svg){height=12px} My(SQL) |
+![](icons/intel.svg){height=12px} x86 Assembly
 
 **\emoji{desktop-computer} Operating Systems** \hfill{}
-![](icons/redhat.svg){width=3mm} Fedora/RHEL/CentOS |
-![](icons/ubuntu.svg){width=3mm} Ubuntu |
-![](icons/debian.svg){width=3mm} Debian |
-![](icons/windows.svg){width=3mm} Windows
+![](icons/redhat.svg){height=12px} Fedora/RHEL/CentOS |
+![](icons/ubuntu.svg){height=12px} Ubuntu |
+![](icons/debian.svg){height=12px} Debian |
+![](icons/windows.svg){height=12px} Windows
 
 **\emoji{speaking-head} Languages** \hfill{}
 \emoji{it} Italian (Mother tongue) |
