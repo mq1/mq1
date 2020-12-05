@@ -6,6 +6,7 @@ mainfont: Noto Sans
 colorlinks: true
 header-includes: |
     \usepackage{emoji}
+    \usepackage[fixed]{fontawesome5}
     \pagenumbering{gobble}
 ---
 
@@ -17,8 +18,8 @@ header-includes: |
 [\emoji{globe-with-meridians} quarno.xyz](https://quarno.xyz) |
 [\emoji{envelope} manuelquarneti@gmail.com](mailto:manuelquarneti@gmail.com) |
 [\emoji{cityscape} Cotignola RA, Italy](https://www.openstreetmap.org/relation/43112) |
-[![](icons/github.svg){height=14px} quarno](https://github.com/quarno) |
-[![](icons/linkedin.svg){height=14px} quarno](https://www.linkedin.com/in/quarno/)
+[\faGithub quarno](https://github.com/quarno) |
+[\faLinkedin quarno](https://www.linkedin.com/in/quarno/)
 \flushleft{}
 
 # \emoji{books} Education \dotfill{}

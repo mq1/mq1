@@ -7,4 +7,4 @@ pdf: cv.md me.jpg qr.png
 .PHONY: clean
 
 clean:
-	-rm -rf public
+	-rm -rf public/*.pdf
