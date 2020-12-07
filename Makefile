@@ -1,10 +1,12 @@
-all: pdf
+all: pdf clean
 
-pdf: cv.md me.jpg qr.png
+pdf: cv.tex me.jpg
 	mkdir -p public
-	pandoc cv.md --pdf-engine=lualatex -o public/cv.pdf
+	lualatex --shell-escape cv.tex
+	mv cv.pdf public
 
 .PHONY: clean
 
 clean:
-	-rm -rf public/*.pdf
+	-rm *.aux *.log *.out *.pdf *.synctex.gz
+	-rm -rf svg-inkscape
