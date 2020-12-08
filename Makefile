@@ -8,5 +8,5 @@ pdf: cv.tex me.jpg
 .PHONY: clean
 
 clean:
-	-rm *.aux *.log *.out *.pdf *.synctex.gz
+	-rm *.aux *.fdb_latexmk *.fls *.log *.out *.pdf *.synctex.gz
 	-rm -rf svg-inkscape
