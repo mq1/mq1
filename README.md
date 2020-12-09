@@ -32,4 +32,4 @@
 [![eMail](https://img.shields.io/badge/eMail-D14836?logo=gmail&logoColor=white)](mailto:manuelquarneti@gmail.com)
 
 📄 You can download my cv
-[![here](https://img.shields.io/badge/here-EC1C24?logo=adobe-acrobat-reader&logoColor=white)](https://quarno.xyz/cv.pdf)
+[![here](https://img.shields.io/badge/here-EC1C24?logo=adobe-acrobat-reader&logoColor=white)](https://quarno.github.io/cv/cv.pdf)
