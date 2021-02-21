@@ -3,28 +3,29 @@
 🏫 I'm a **Computer Science and Engineering** student at Alma Mater Studiorum (University of Bologna)
 
 🗣 I speak
-🇮🇹 Italian and 🇬🇧 English
+<kbd>🇮🇹 Italian</kbd>
+<kbd>🇬🇧 English</kbd>
 
 👨‍💻 I can code on/with
-Python |
-Go |
-Java |
-(My)SQL |
-x86 Assembly |
-HTML5/CSS3/JS |
-Hugo |
-BASH |
-LaTeX |
-Git and GitHub
+<kbd>Python</kbd>
+<kbd>Go</kbd>
+<kbd>Java</kbd>
+<kbd>(My)SQL</kbd>
+<kbd>x86 Assembly</kbd>
+<kbd>HTML5/CSS3/JS</kbd>
+<kbd>Hugo</kbd>
+<kbd>BASH</kbd>
+<kbd>LaTeX</kbd>
+<kbd>Git and GitHub</kbd>
 
 💻 I know how to use
-Fedora/RHEL/CentOS |
-Ubuntu/Debian |
-Windows
+<kbd>Fedora/RHEL/CentOS</kbd>
+<kbd>Ubuntu/Debian</kbd>
+<kbd>Windows</kbd>
 
 💡 I'm learning
-TypeScript |
-Java
+<kbd>TypeScript</kbd>
+<kbd>Java</kbd>
 
 
 🔍 You can reach me on
