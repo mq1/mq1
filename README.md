@@ -1,11 +1,12 @@
-<h1 align="center">Ciao 👋🏻 My name is Manuel Quarneti</h1>
+<p>🏫 I'm a <strong>Computer Science and Engineering</strong> student at Alma Mater Studiorum (University of Bologna)</p>
 
-🏫 I'm a **Computer Science and Engineering** student at Alma Mater Studiorum (University of Bologna)
-
+<p>
 🗣 I speak
 <kbd>🇮🇹 Italian</kbd>
 <kbd>🇬🇧 English</kbd>
+</p>
 
+<p>
 👨‍💻 I can code on/with
 <kbd>Python</kbd>
 <kbd>Go</kbd>
@@ -17,21 +18,29 @@
 <kbd>BASH</kbd>
 <kbd>LaTeX</kbd>
 <kbd>Git and GitHub</kbd>
+</p>
 
+<p>
 💻 I know how to use
 <kbd>Fedora/RHEL/CentOS</kbd>
 <kbd>Ubuntu/Debian</kbd>
 <kbd>Windows</kbd>
+</p>
 
+<p>
 💡 I'm learning
 <kbd>TypeScript</kbd>
 <kbd>Java</kbd>
+</p>
 
-
+<p>
 🔍 You can reach me on
-[LinkedIn](https://www.linkedin.com/in/mq1/),
-[GitHub](https://github.com/mq1) and
-[e-mail](mailto:manuelquarneti@gmail.com)
+<a href="https://www.linkedin.com/in/mq1/">LinkedIn</a>,
+<a href="https://github.com/mq1">GitHub</a> and
+<a href="mailto:manuelquarneti@gmail.com">e-mail</a>
+</p>
 
+<p>
 📄 You can download my cv
-[here](https://mq1.github.io/cv/cv.pdf)
+<a href="https://mq1.github.io/cv/cv.pdf">here</a>
+</p>
