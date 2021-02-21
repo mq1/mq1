@@ -33,4 +33,4 @@ Java
 [e-mail](mailto:manuelquarneti@gmail.com)
 
 📄 You can download my cv
-[![here](https://img.shields.io/badge/here-EC1C24?logo=adobe-acrobat-reader&logoColor=white)](https://mq1.github.io/cv/cv.pdf)
+[here](https://mq1.github.io/cv/cv.pdf)
