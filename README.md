@@ -17,10 +17,14 @@ I like coffee, music, and trying out new things, both technology-wise and within
 
   _HTML, CSS, JS, JQuery, WordPress, .NET_
 
+<br>
+
 * **Software Developer Internship** @[Bucchi s.r.l.](http://www.bucchi.it/en/) | [Lugo RA, Italy](https://www.openstreetmap.org/relation/43140) | 2018 ~1 month
   I assisted a sysadmin in DevOps, specifically on data parsing, archiving, and visualization.
 
   _PostgreSQL, Python, Flask_
+
+<br>
 
 * **Software Developer Internship** @[T4 LAB](https://www.t4lab.it/) | [Faenza RA, Italy](https://www.openstreetmap.org/relation/43004) | 2017 ~1.5 months
   I fixed clients' PCs: most of my tasks were Malware removals, system cleanups, backups, and data restoring.
