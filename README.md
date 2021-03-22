@@ -1,4 +1,4 @@
-Hi,\
+Hi,
 I'm a **Computer Science and Engineering** student @[unibo](https://www.unibo.it/en/).\
 I like coffee, music, and trying out new things, both technology-wise and within my life!
 
