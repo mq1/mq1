@@ -14,7 +14,7 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1
       - uses: r-lib/actions/setup-tinytex@v1
 
-      - run: tlmgr install inter
+      - run: tlmgr install inter fontawesome5
       - run: mkdir dist
       - run: pandoc --pdf-engine=xelatex -o dist/cv.pdf HEADING.md README.md
       - run: pandoc -o dist/index.html README.md
