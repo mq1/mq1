@@ -1,6 +1,6 @@
 ---
 title: '\vspace{-50pt}\Huge \bfseries MANUEL QUARNETI\vspace{-50pt}'
-geometry: margin=2cm
+geometry: margin=1.75cm
 colorlinks: true
 header-includes: |
   \usepackage[sfdefault]{inter}
