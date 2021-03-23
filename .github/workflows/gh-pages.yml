@@ -27,9 +27,11 @@ jobs:
       - run: npm ci
       - run: npm run build
 
-      - uses: docker://pandoc/latex
-        with:
-          args: --pdf-engine=xelatex -o _site/README.pdf HEADING.md README.md
+      - uses: r-lib/actions/setup-pandoc@v1
+      - uses: r-lib/actions/setup-tinytex@v1
+
+      - run: tlmgr install inter
+      - run: pandoc --pdf-engine=xelatex -o _site/README.pdf HEADING.md README.md
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

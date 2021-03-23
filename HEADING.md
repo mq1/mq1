@@ -3,7 +3,7 @@ title: '\vspace{-50pt}\Huge \bfseries MANUEL QUARNETI\vspace{-50pt}'
 geometry: margin=2cm
 colorlinks: true
 header-includes: |
-  \renewcommand*\familydefault{\sfdefault}
+  \usepackage[sfdefault]{inter}
   \pagenumbering{gobble}
   \renewcommand{\baselinestretch}{1.25}
   \let\tempone\itemize
