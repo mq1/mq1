@@ -1,0 +1,48 @@
+\documentclass{article}
+\usepackage[a4paper, left=1.5cm, right=1.5cm, top=2cm, bottom=2cm]{geometry}
+
+% font
+\usepackage[sfdefault]{inter}
+
+% disable page numbering
+\pagenumbering{gobble}
+
+% line spacing
+\renewcommand{\baselinestretch}{1.5}
+
+% disable paragraph indentation
+\setlength{\parindent}{0pt}
+
+% itemize spacing
+\let\tempone\itemize
+\let\temptwo\enditemize
+\renewenvironment{itemize}{\tempone\addtolength{\itemsep}{1.0\baselineskip}}{\temptwo}
+
+% packages
+\usepackage{fontawesome5}
+\usepackage[dvipsnames]{xcolor}
+\usepackage[colorlinks, urlcolor=Blue]{hyperref}
+
+% \tightlist
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% remove section numbering
+\setcounter{secnumdepth}{-\maxdimen}
+
+\title{\vspace{-50pt}\Huge \bfseries MANUEL QUARNETI\vspace{-50pt}}
+\author{}
+\date{}
+
+\begin{document}
+  \maketitle
+
+  \begin{center}
+    \faGlobe \ \href{https://mq1.eu/}{mq1.eu} |
+    \faGithub \ \href{https://github.com/mq1/}{mq1} |
+    \faLinkedin \ \href{https://linkedin.com/in/mq1/}{mq1} |
+    \faEnvelope \ \href{mailto:manuelquarneti@gmail.com}{manuelquarneti@gmail.com}
+  \end{center}
+
+  $body$
+\end{document}
