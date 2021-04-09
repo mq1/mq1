@@ -1,7 +1,3 @@
-Hi,
-I'm a **Computer Science and Engineering** student @[unibo](https://www.unibo.it/en/).\
-I like coffee, chocolate, music, and trying out new things, both technology-wise and within my life.
-
 ## Education
 
 * **[Bachelor in Computer Science and Engineering](https://corsi.unibo.it/1cycle/ComputerScienceEngineering)** @[University of Bologna](https://www.unibo.it/en/) | [Cesena FC, Italy](https://www.openstreetmap.org/relation/42809) | 2019 - Now
