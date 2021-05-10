@@ -27,4 +27,4 @@
 
 * **Languages**: Italian (Mother tongue), English (CEFR C1)
 * **Operating Systems**: Fedora/RHEL/CentOS, Ubuntu/Debian, Windows
-* **Technologies**: Python, Go, C, Java, (My)SQL, x86 Assembly, HTML/CSS/JS, Hugo, BASH, LaTeX, Git and GitHub
+* **Technologies**: Python, Go, C, Java, (My)SQL, x86 Assembly, HTML/CSS/JS, TypeScript, Vue, BASH, LaTeX, Git and GitHub
