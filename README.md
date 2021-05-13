@@ -14,7 +14,7 @@
   _HTML, CSS, JS, JQuery, WordPress, .NET_<br><br>
 * **Software Developer Internship** @[Bucchi s.r.l.](http://www.bucchi.it/en/) | [Lugo RA, Italy](https://www.openstreetmap.org/relation/43140) | 2018 ~1 month
 
-  > I assisted a sysadmin in DevOps, specifically on data parsing, archiving, and visualization.
+  > I assisted a sysadmin in various activities, including data parsing, archiving, and visualization.
 
   _CentOS, PostgreSQL, Python, Flask_<br><br>
 * **Software Developer Internship** @[T4 LAB](https://www.t4lab.it/) | [Faenza RA, Italy](https://www.openstreetmap.org/relation/43004) | 2017 ~1.5 months
