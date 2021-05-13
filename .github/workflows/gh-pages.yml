@@ -14,10 +14,13 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1
       - uses: r-lib/actions/setup-tinytex@v1
 
-      - run: tlmgr install inter fontawesome5
-      - run: mkdir dist
-      - run: pandoc --pdf-engine=xelatex --template template.tex -o dist/cv.pdf README.md
-      - run: pandoc -o dist/index.html README.md
+      - run: |
+          tlmgr install inter fontawesome5
+          mkdir dist
+          pandoc --pdf-engine=xelatex --template template.tex -o dist/en.pdf README.md
+          pandoc --pdf-engine=xelatex --template template.tex -o dist/it.pdf README_IT.md
+          pandoc -o dist/en.html README.md
+          pandoc -o dist/it.html README_IT.md
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
