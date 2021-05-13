@@ -17,7 +17,7 @@
   > I assisted a sysadmin in various activities, including data parsing, archiving, and visualization.
 
   _CentOS, PostgreSQL, Python, Flask_<br><br>
-* **Software Developer Internship** @[T4 LAB](https://www.t4lab.it/) | [Faenza RA, Italy](https://www.openstreetmap.org/relation/43004) | 2017 ~1.5 months
+* **Computer Technician Internship** @[T4 LAB](https://www.t4lab.it/) | [Faenza RA, Italy](https://www.openstreetmap.org/relation/43004) | 2017 ~1.5 months
 
   > I fixed clients' PCs: most of my tasks were Malware removals, system cleanups, backups, and data restoring.
 
