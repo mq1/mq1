@@ -19,7 +19,7 @@
   _CentOS, PostgreSQL, Python, Flask_<br><br>
 * **Computer Technician Internship** @[T4 LAB](https://www.t4lab.it/) | [Faenza RA, Italy](https://www.openstreetmap.org/relation/43004) | 2017 ~1.5 months
 
-  > I fixed clients' PCs: most of my tasks were Malware removals, system cleanups, backups, and data restoring.
+  > I fixed clients' PCs: most of my tasks were malware removals, system cleanups, backups, and data restoring.
 
   _Windows XP to 10, Ubuntu_
 
