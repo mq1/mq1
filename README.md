@@ -9,7 +9,7 @@
 
   > In the span of two work-school activities, I was in charge of debugging one of the websites the company was developing.
   > I also migrated website content from an old website to a newer one.
-  > In the final weeks, I developed a desktop application for internal use.
+  > During the last weeks, I developed a desktop application for internal use.
 
   _HTML, CSS, JS, JQuery, WordPress, .NET_<br><br>
 * **Software Developer Internship** @[Bucchi s.r.l.](http://www.bucchi.it/en/) | [Lugo RA, Italy](https://www.openstreetmap.org/relation/43140) | 2018 ~1 month
