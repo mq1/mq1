@@ -27,4 +27,4 @@
 
 * **Lingue**: Italiano (Madrelingua), English (CEFR C1)
 * **Sistemi Operativi**: Fedora/RHEL/CentOS, Ubuntu/Debian, Windows
-* **Tecnologie**: Python, Go, C, Java, (My)SQL, x86 Assembly, HTML/CSS/JS, TypeScript, Vue, BASH, LaTeX, Git and GitHub, Docker/podman
+* **Tecnologie**: Python, Go, C, Java, (My)SQL, x86 Assembly, HTML/CSS/JS, TypeScript, Vue, BASH, LaTeX, Git, GitHub, Docker/podman
