@@ -5,6 +5,8 @@
 
 ## Experience
 
+* **IT HelpDesk/SysAdmin** @[Club Del Sole](https://www.clubdelsole.com/en/) | [Forlì FC, Italy](https://www.openstreetmap.org/relation/42907) | 2021 ~3 months
+
 * **Software Developer Internship** @[M.M.B. s.r.l.](https://www.mmbsoftware.it/portalemmb/en/home) | [Faenza RA, Italy](https://www.openstreetmap.org/relation/43004) | 2018 ~1 month
 
   > In the span of two work-school activities, I was in charge of debugging one of the websites the company was developing.

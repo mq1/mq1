@@ -5,6 +5,8 @@
 
 ## Esperienza
 
+* **HelpDesk IT/Sistemista** @[Club Del Sole](https://www.clubdelsole.com/) | [Forlì FC, Italy](https://www.openstreetmap.org/relation/42907) | 2021 ~3 mesi
+
 * **Tirocinio Sviluppatore Software** @[M.M.B. s.r.l.](https://www.mmbsoftware.it/) | [Faenza RA, Italia](https://www.openstreetmap.org/relation/43004) | 2018 ~1 mese
 
   > Durante due attività di alternanza scuola-lavoro (PCTO), ho avuto la responsabilità del debugging di uno dei siti web che l'azienda stava sviluppando.
