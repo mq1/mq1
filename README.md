@@ -7,6 +7,10 @@
 
 * **IT HelpDesk/SysAdmin** @[Club Del Sole](https://www.clubdelsole.com/en/) | [Forlì FC, Italy](https://www.openstreetmap.org/relation/42907) | 2021 ~3 months
 
+  > I provided technical support on issues regarding Windows, printers and Active Directory. I also carried out small network monitoring activities.
+
+  _Windows, Active Directory_<br><br>
+
 * **Software Developer Internship** @[M.M.B. s.r.l.](https://www.mmbsoftware.it/portalemmb/en/home) | [Faenza RA, Italy](https://www.openstreetmap.org/relation/43004) | 2018 ~1 month
 
   > In the span of two work-school activities, I was in charge of debugging one of the websites the company was developing.

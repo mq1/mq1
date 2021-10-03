@@ -7,6 +7,10 @@
 
 * **HelpDesk IT/Sistemista** @[Club Del Sole](https://www.clubdelsole.com/) | [Forlì FC, Italy](https://www.openstreetmap.org/relation/42907) | 2021 ~3 mesi
 
+  > Ho fornito supporto tecnico riguardante problemi riguardanti Windows, stampanti e Active Directory. Ho inoltre svolto piccole attività di monitoring della rete.
+
+  _Windows, Active Directory_<br><br>
+
 * **Tirocinio Sviluppatore Software** @[M.M.B. s.r.l.](https://www.mmbsoftware.it/) | [Faenza RA, Italia](https://www.openstreetmap.org/relation/43004) | 2018 ~1 mese
 
   > Durante due attività di alternanza scuola-lavoro (PCTO), ho avuto la responsabilità del debugging di uno dei siti web che l'azienda stava sviluppando.
@@ -23,7 +27,7 @@
 
   > Ho aggiustato PC dei clienti, la maggior parte dei mie compiti erano: rimozione malware, pulizie di sistema, backups e recupero dati.
 
-  _Windows XP to 10, Ubuntu_
+  _Windows da XP a 10, Ubuntu_
 
 ## Competenze
 
