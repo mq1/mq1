@@ -1,6 +1,6 @@
 ## Istruzione
 
-* **[Laurea in Ingegneria e Scienze Informatiche](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche)** @[Università di Bologna](https://www.unibo.it/it/) | [Cesena FC, Italia](https://www.openstreetmap.org/relation/42809) | 2019 - Ora
+* **[Laurea in Scienze e Tecniche Psicologiche](https://corsi.unibo.it/laurea/ScienzeTecnichePsicologiche)** @[Università di Bologna](https://www.unibo.it/it/) | [Cesena FC, Italia](https://www.openstreetmap.org/relation/42809) | 2021 - Ora
 * **Diploma Superiore di Perito Informatico** @[I.T.I.P. Luigi Bucci](https://www.itipfaenza.edu.it/) | [Faenza RA, Italia](https://www.openstreetmap.org/relation/43004) | 2014 - 2019
 
 ## Esperienza
