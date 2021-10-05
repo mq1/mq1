@@ -1,6 +1,6 @@
 ## Education
 
-* **[Bachelor in Computer Science and Engineering](https://corsi.unibo.it/1cycle/ComputerScienceEngineering)** @[University of Bologna](https://www.unibo.it/en/) | [Cesena FC, Italy](https://www.openstreetmap.org/relation/42809) | 2019 - Now
+* **[Bachelor in Psychological Sciences and Techniques](https://corsi.unibo.it/1cycle/PsychologicalSciences)** @[University of Bologna](https://www.unibo.it/en/) | [Cesena FC, Italy](https://www.openstreetmap.org/relation/42809) | 2021 - Now
 * **High School Diploma in Information Technology** @[I.T.I.P. Luigi Bucci](https://www.itipfaenza.edu.it/) | [Faenza RA, Italy](https://www.openstreetmap.org/relation/43004) | 2014 - 2019
 
 ## Experience
